@@ -26,7 +26,7 @@ Please be patient, I am not a quick learner!
 For some of you thinking of make your own webpage, I highly recommend going through this website first: (https://jayrobwilliams.com/posts/2020/06/academic-website/)
 
 I plan to use this forum to share some knowledge I have gathered over the years during my academic career. 
-This will mostly be about computational condensed matter physics (especially about DFT-based methods) which include my own notes (with practical information) and lecture notes I have found extremely useful, some simple codes, mostly in python and C++ I have written for many different purposesl and other random stuffs.
+This will mostly be about computational condensed matter physics (especially about DFT-based methods) which include my own notes (with practical information) and lecture notes I have found extremely useful, some simple codes, mostly in python and C++ I have written for many purposes (some are fancy and others are boring and probably useless like plotting etc) and other random stuffs.
 
 Please check my webpage later for important information. Thank you and see you later!
 
