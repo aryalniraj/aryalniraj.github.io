@@ -17,7 +17,7 @@ I currently work as a postdoctoral research associate at Condensed Matter Physic
 
 In my free time (which is unfortunately getting shorter and shorter as I am growing older), I like to play soccer, watch movies, listen to music and talk to people about random stuffs.
 But most importantly, I enjoy doing nothing. Is it not the best thing to do absolutely nothing? 
-<--- Well, do not judge me too soon byu saying lazy. --->
+<!--- Well, do not judge me too soon byu saying lazy. --->
 
 I am just learning how to make an academic website. In fact, I am even new to github. So I will need to learn quite a bit of things to make this webpage useful. 
 Please be patient, I am not a quick learner! 
