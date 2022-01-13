@@ -10,17 +10,18 @@ redirect_from:
 
 Hello everyone!
 Welcome to my webpage.
+
 My name is Niraj Aryal.
 I am a father of a beautiful daughter and a husband of a lovely and caring wife.
 I currently work as a postdoctoral research associate at Condensed Matter Physics and Materials Science Division, Brookhaven National Laboratory.
 
 In my free time (which is unfortunately getting shorter and shorter as I am growing older), I like to play soccer, watch movies, listen to music and talk to people about random stuffs.
-But most importantly, I enjoy doing nothing. Doing absolutely nothing is the best thing!
+But most importantly, I enjoy doing nothing. Is it not the best thing to do absolutely nothing? 
 
 I am just learning how to make an academic website. 
 For some of you thinking of doing the same, this is a great website (https://jayrobwilliams.com/posts/2020/06/academic-website/)
 
-I plan to use to forum to share some knowledge I have gathered over the years during my academic career. 
+I plan to use this forum to share some knowledge I have gathered over the years during my academic career. 
 This will mostly be about computational condensed matter physics (especially about DFT-based methods) which include my own notes (with practical information) and lecture notes I have found extremely useful, some simple codes, mostly in python and C++ I have written for many different purposesl and other random stuffs.
 
 <!---
