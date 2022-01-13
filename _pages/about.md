@@ -17,12 +17,18 @@ I currently work as a postdoctoral research associate at Condensed Matter Physic
 
 In my free time (which is unfortunately getting shorter and shorter as I am growing older), I like to play soccer, watch movies, listen to music and talk to people about random stuffs.
 But most importantly, I enjoy doing nothing. Is it not the best thing to do absolutely nothing? 
+<--- Well, do not judge me too soon byu saying lazy. --->
 
-I am just learning how to make an academic website. 
-For some of you thinking of doing the same, this is a great website (https://jayrobwilliams.com/posts/2020/06/academic-website/)
+I am just learning how to make an academic website. In fact, I am even new to github. So I will need to learn quite a bit of things to make this webpage useful. 
+Please be patient, I am not a quick learner! 
+<!--- And I like to do nothing unless I have to! --->
+
+For some of you thinking of make your own webpage, I highly recommend going through this website first: (https://jayrobwilliams.com/posts/2020/06/academic-website/)
 
 I plan to use this forum to share some knowledge I have gathered over the years during my academic career. 
 This will mostly be about computational condensed matter physics (especially about DFT-based methods) which include my own notes (with practical information) and lecture notes I have found extremely useful, some simple codes, mostly in python and C++ I have written for many different purposesl and other random stuffs.
+
+Please check my webpage later for important information. Thank you and see you later!
 
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on #GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, #automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme]#(https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications,# talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.githu#b.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
